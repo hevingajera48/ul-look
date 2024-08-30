@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212698769123",
+    "project_id": "fir-c3c1f",
+    "storage_bucket": "fir-c3c1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212698769123:android:b32cf8ae0a98f51e1e07d6",
+        "android_client_info": {
+          "package_name": "com.example.smart_study"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHBRx3UMt-r9YlWpTfhGsinb_oX_yvgE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
